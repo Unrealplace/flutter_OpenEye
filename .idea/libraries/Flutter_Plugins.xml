@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
+    <CLASSES>
+      <root url="file:///Applications/flutter/.pub-cache/hosted/pub.flutter-io.cn/url_launcher_web-0.1.0+2" />
+      <root url="file:///Applications/flutter/.pub-cache/hosted/pub.flutter-io.cn/url_launcher-5.4.1" />
+      <root url="file:///Applications/flutter/.pub-cache/hosted/pub.flutter-io.cn/package_info-0.4.0+13" />
+      <root url="file:///Applications/flutter/.pub-cache/hosted/pub.flutter-io.cn/url_launcher_macos-0.0.1+2" />
+      <root url="file:///Applications/flutter/.pub-cache/hosted/pub.flutter-io.cn/sqflite-1.1.8" />
+      <root url="file:///Applications/flutter/.pub-cache/hosted/pub.flutter-io.cn/path_provider-1.5.1" />
+      <root url="file:///Applications/flutter/.pub-cache/git/MVideoPlugin-c07353d409a1cabba56fe1a26fa897ca70b34de6" />
+      <root url="file:///Applications/flutter/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences_web-0.1.2+2" />
+      <root url="file:///Applications/flutter/.pub-cache/hosted/pub.flutter-io.cn/webview_flutter-0.3.18+1" />
+      <root url="file:///Applications/flutter/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences-0.5.6" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
